@@ -1,0 +1,1 @@
+call C:\msys64\msys2_shell.cmd -mingw32 -shell bash -here -c "cmake -S . -B build; cmake --build build; ./build/chertergine.exe; exec bash"
