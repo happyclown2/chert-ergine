@@ -21,3 +21,6 @@ And then if you want to run in console, use this
 ```console
 $ ./name/chertergine.exe
 ```
+
+
+Main file is memory.cpp. Go crazy. Please improve it. Sorry for the messiness.
