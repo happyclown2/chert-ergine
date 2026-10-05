@@ -3,6 +3,7 @@ A basic recreation of cheat engine that can read, refine, and modify memory. Cre
 
 Build
 ===
+There is already a .bat file in source-code that does this for you, but just in case.
 First, start a mingw console. If you are wanting to start mingw from another console, use this
 ```bash
 C:\msys64\msys2_shell.cmd -defterm -no-start -here -mingw32
